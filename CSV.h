@@ -7,7 +7,10 @@
 
 namespace CSV
 {
-
+    template <typename T>
+    struct convert
+    {
+    };
 
     template <typename T>
     void Save(std::ofstream &ofs, const std::vector<T> &ts)
