@@ -7,10 +7,6 @@
 
 namespace CSV
 {
-    template <typename T>
-    struct convert
-    {
-    };
 
 
     template <typename T>
