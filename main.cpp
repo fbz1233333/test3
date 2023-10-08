@@ -88,7 +88,6 @@ struct Model
     }
 };
 
-
 int main(){
 
     Mesh m1 =

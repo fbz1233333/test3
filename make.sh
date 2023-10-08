@@ -9,4 +9,4 @@ else
     echo "-- create folder "
 fi
 
-cd build && cmake .. && make && cd .. && ./build/main
+cd build && cmake .. && make && cd .. && ./build/csv_test
